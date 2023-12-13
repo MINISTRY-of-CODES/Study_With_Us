@@ -34,7 +34,8 @@ Language
 - [x] C/C++  
 
 Projects
-- [x] Nanying Cup Debate Competiton timer updater 
+- [x] Nanying Cup Debate Competiton timer updater
+- [x] Facial recognize system (lite)
 
   ## Study Plan
   For Framework
