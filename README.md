@@ -60,7 +60,7 @@ Projects
 
 ## Somthing cool
 
-#### [中国珂学院](https://wiki.sukasuka.cn/%E9%A6%96%E9%A1%B5)
+#### [中国珂学院](https://sweetlemon39.gitee.io/chtholly/)
 
 #### [各种转换](https://convertio.co/zh/)
 
