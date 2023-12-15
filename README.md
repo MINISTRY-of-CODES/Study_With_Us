@@ -29,7 +29,7 @@
  >
  >Dream:~~couch potato~~
  >
- >Interest:| AI | Coding | Painting | Swimming
+ >Interest:| AI | Coding | Painting | Swimming ｜
 
 Contect:
 Email:1327632381@qq.com, CST2309182@xmu.edu.my
