@@ -28,21 +28,21 @@
 
 ### Skills
 
-  |Spoken Languages|
- -Chinese(Native Proficiency)
- -English(Intermediate Proficiency)
- -Malay(Elementary Proficiency)
+ > |Spoken Languages|
+ >-Chinese(Native Proficiency)
+ >-English(Intermediate Proficiency)
+ >-Malay(Elementary Proficiency)
 
-  |Spoken Dialect|
- -Canthonese(Bad Proficiency)
- -Hokkien (I just understand few words :P)
+ > |Spoken Dialect|
+ >-Canthonese(Bad Proficiency)
+ >-Hokkien (I just understand few words :P)
 
-  |Programming language|
- -C/C++
- -C#
- -Python
- -HTML
- -CSS
- -Arduino
+ > |Programming language|
+ >-C/C++
+ >-C#
+ >-Python
+ >-HTML
+ >-CSS
+ >-Arduino
 
 
