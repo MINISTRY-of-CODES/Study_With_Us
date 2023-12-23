@@ -18,30 +18,31 @@
 >
 >Favourite Drinks     : Hainam Kopi
 >
->Interest Field       : Robotics| Computer Vison | Machine Learning | Deep Learning
+>Hobby                : Playing Video Games, Reading 
 >
->Contact: I rather not tell you
+>Interest Field       : Robotics| Computer Vision | Machine Learning | Deep Learning | Data Science
+>
+>Contact: I rather not tell you but i still have to provide email for work (AIT2302010@xmu.edu.my)
 
 -----------------------------------------------------
 
-###Skills
+### Skills
 
-|Spoken Languages|
--Chinese(Native Proficiency)
--English(Intermediate Proficiency)
--Malay(Elementary Proficiency)
+  |Spoken Languages|
+ -Chinese(Native Proficiency)
+ -English(Intermediate Proficiency)
+ -Malay(Elementary Proficiency)
 
-|Spoken Dialect|
--Canthonese(Bad Proficiency)
--Hokkien (I just know some words :P)
+  |Spoken Dialect|
+ -Canthonese(Bad Proficiency)
+ -Hokkien (I just understand few words :P)
 
-|Programming language|
--C/C++
--C#
--Python
--HTML
--CSS
--Arduino
+  |Programming language|
+ -C/C++
+ -C#
+ -Python
+ -HTML
+ -CSS
+ -Arduino
 
 
-这是一个给学习组使用的目录
