@@ -5,7 +5,7 @@
 
 -----------------------------------------------------
 ## My profile
- <img decoding="async" align="right" src="images/campusLifepic.png" width="20%">
+ <img decoding="async" align="center" src="images/campusLifePic2.png">
 
 > Name                : Kwan Weng Hin 关永轩
 >
