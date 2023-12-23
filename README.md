@@ -1,6 +1,5 @@
 # What's up!!!
-# Name: Kwan Weng Hin (Alternate Username: StrayRipper)
-### Kwan Weng Hin's dashboard
+# Kwan Weng Hin's dashboard
 *Failing is just another word for growing. We can learn anything*
 
 -----------------------------------------------------
