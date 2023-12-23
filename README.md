@@ -1,6 +1,7 @@
 # What's up!!!
 # Kwan Weng Hin's dashboard
-*Failing is just another word for growing. We can learn anything.*
+*Failing is just another word for growing.*
+*We can learn anything.*
 
 -----------------------------------------------------
 ## My profile
