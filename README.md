@@ -34,15 +34,22 @@
  >-Malay(Elementary Proficiency)
 
  > |Spoken Dialect|
+ >
  >-Canthonese(Bad Proficiency)
+ >
  >-Hokkien (I just understand few words :P)
 
  > |Programming language|
  >-C/C++
+ >
  >-C#
+ >
  >-Python
+ >
  >-HTML
+ >
  >-CSS
+ >
  >-Arduino
 
 
