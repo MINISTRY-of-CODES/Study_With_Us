@@ -6,23 +6,23 @@
 ## My profile
  <img decoding="async" align="center" src="images/campusLifePic2.png">
 
-> Name                : Kwan Weng Hin 关永轩
+> **Name                : Kwan Weng Hin 关永轩**
 >
-> Gender              : Male
+> **Gender              : Male**
 >
-> Birthday            : 6th of January 2004
+> **Birthday            : 6th of January 2004**
 >
-> Relationship status : Single
+> **Relationship status : Single**
 >
->Favourite Food       : Nasi Lemak, Curry noodles, Chicken Rice, Bak Kut Teh （肉骨茶）
+>**Favourite Food       : Nasi Lemak, Curry noodles, Chicken Rice, Bak Kut Teh （肉骨茶）**
 >
->Favourite Drinks     : Hainam Kopi
+>**Favourite Drinks     : Hainam Kopi**
 >
->Hobby                : Playing Video Games, Reading 
+>**Hobby                : Playing Video Games, Reading** 
 >
->Interest Field       : Robotics| Computer Vision | Machine Learning | Deep Learning | Data Science
+>**Interest Field       : Robotics| Computer Vision | Machine Learning | Deep Learning | Data Science**
 >
->Contact              : I rather not tell you but i still have to provide email for work (AIT2302010@xmu.edu.my)
+>**Contact              : I rather not tell you but i still have to provide email for works (AIT2302010@xmu.edu.my)**
 
 -----------------------------------------------------
 
