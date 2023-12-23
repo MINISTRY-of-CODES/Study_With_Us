@@ -28,18 +28,21 @@
 
 ### Skills
 
- > |Spoken Languages|
+ >|Spoken Languages|
+ >
  >-Chinese(Native Proficiency)
+ >
  >-English(Intermediate Proficiency)
+ >
  >-Malay(Elementary Proficiency)
 
- > |Spoken Dialect|
+ >|Spoken Dialect|
  >
  >-Canthonese(Bad Proficiency)
  >
  >-Hokkien (I just understand few words :P)
 
- > |Programming language|
+ >|Programming language|
  >-C/C++
  >
  >-C#
