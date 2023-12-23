@@ -29,21 +29,21 @@
 # Skills
 
  ## |Spoken Languages|
-1. Chinese (Native Proficiency)
-2. English (Intermediate Proficiency)
-3. Malay   (Elementary Proficiency)
+* Chinese (Native Proficiency)
+* English (Intermediate Proficiency)
+* Malay   (Elementary Proficiency)
 
  ## |Spoken Dialect|
-1. Canthonese (Elementary Proficiency)
-2. Hokkien (I just understand few words :P) 
+* Canthonese (Elementary Proficiency)
+* Hokkien (I just understand few words :P) 
 
  ## |Programming language|
-1. C/C++
-2. C#
-3. Python
-4. HTML
-5. CSS
-6. Arduino
-7. R
+* C/C++
+* C#
+* Python
+* HTML
+* CSS
+* Arduino
+* R
 
 
