@@ -5,6 +5,7 @@
 
 -----------------------------------------------------
 ## My profile
+ <img decoding="async" align="right" src="image/campusLifepic.png" width="20%">
 
 > Name                : Kwan Weng Hin 关永轩
 >
@@ -22,7 +23,7 @@
 >
 >Interest Field       : Robotics| Computer Vision | Machine Learning | Deep Learning | Data Science
 >
->Contact: I rather not tell you but i still have to provide email for work (AIT2302010@xmu.edu.my)
+>Contact              : I rather not tell you but i still have to provide email for work (AIT2302010@xmu.edu.my)
 
 -----------------------------------------------------
 
