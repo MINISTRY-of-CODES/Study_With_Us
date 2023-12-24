@@ -27,7 +27,7 @@
 
 -----------------------------------------------------
 
-# Skills 技能
+# Skills
 
  ## |Spoken Languages|
 * Chinese (Native Proficiency)
