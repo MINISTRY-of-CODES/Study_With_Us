@@ -36,11 +36,13 @@
 |Intermediate|
 |Elementary|
 
+
 | Languages | Proficiency Level |
 |:--:|----|
 |Chinese|Native|
 |English|Intermediate|
 |Malay|Elementary|
+
 
 | Dialects | Proficiency Level |
 |:--:|----|
@@ -55,4 +57,4 @@
 * CSS
 * Arduino
 * R
-gut
+
