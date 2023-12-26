@@ -1,4 +1,4 @@
-# What's up!!! #U+1F44B
+# What's up!!! U+1F44B
 # Kwan Weng Hin's Homepage
 *Failing is just another word for growing.*   
 *We can learn anything.*
