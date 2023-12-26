@@ -27,7 +27,7 @@
 
 -----------------------------------------------------
 
-|Proficiency|
+|Languages Proficiency|
 |----|
 |Native|
 |Professional|
@@ -40,6 +40,10 @@
 |English|Intermediate|
 |Malay|Elementary|
 
+| Dialects | Proficiency Level |
+|:--:|----|
+|Canthonese|Elementary|
+|Hokkien| i just understand few words :P |
 
 # Skills
 
