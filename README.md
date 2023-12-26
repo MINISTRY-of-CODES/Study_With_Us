@@ -27,6 +27,10 @@
 
 -----------------------------------------------------
 
+
+
+| Languages | Proficiency Level |
+|:--:|----|
 # Skills
 
  ## |Spoken Languages|
@@ -46,4 +50,4 @@
 * CSS
 * Arduino
 * R
-
+gut
