@@ -31,6 +31,11 @@
 
 | Languages | Proficiency Level |
 |:--:|----|
+|Chinese|Native|
+|English|Intermediate|
+|Malay|Elementary|
+
+
 # Skills
 
  ## |Spoken Languages|
