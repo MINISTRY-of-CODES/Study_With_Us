@@ -27,7 +27,12 @@
 
 -----------------------------------------------------
 
-
+|Proficiency|
+|----|
+|Native|
+|Professional|
+|Intermediate|
+|Elementary|
 
 | Languages | Proficiency Level |
 |:--:|----|
