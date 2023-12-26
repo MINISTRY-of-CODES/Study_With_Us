@@ -27,6 +27,8 @@
 
 -----------------------------------------------------
 
+# Skills 
+
 |Languages Proficiency|
 |----|
 |Native|
@@ -44,17 +46,6 @@
 |:--:|----|
 |Canthonese|Elementary|
 |Hokkien| i just understand few words :P |
-
-# Skills
-
- ## |Spoken Languages|
-* Chinese (Native Proficiency)
-* English (Intermediate Proficiency)
-* Malay   (Elementary Proficiency)
-
- ## |Spoken Dialect|
-* Canthonese (Elementary Proficiency)
-* Hokkien (I just understand few words :P)
 
  ## |Programming language|
 * C/C++
